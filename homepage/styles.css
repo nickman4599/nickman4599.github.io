@@ -1,0 +1,24 @@
+body{
+    color: black;
+}
+
+h1 {
+    color: red;
+    font-size: 60px;
+}
+
+.essay, .places, .about{
+    font-size: 15px;
+    margin: auto;
+    width: 90%;
+}
+
+.nav {
+    background-color: yellow;
+}
+
+#Tryon, #Georges, #School, #Tryon2, #Cloisters, #Yard {
+    width: 1000px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
